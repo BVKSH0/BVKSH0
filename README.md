@@ -1,4 +1,4 @@
-<h3 align="center">I’m a tech enthusiast and junior web developer with expertise in HTML, CSS, and JavaScript, currently expanding my skills in Python and cybersecurity. Passionate about building responsive websites and exploring ethical hacking with Kali Linux, I thrive on solving problems and learning new technologies. Dedicated to creating user-friendly websites and enhancing my skills, I’m open to web development roles and collaboration.</h3>
+<h3 align="left">I’m a tech enthusiast and junior web developer with expertise in HTML, CSS, and JavaScript, currently expanding my skills in Python and cybersecurity. Passionate about building responsive websites and exploring ethical hacking with Kali Linux, I thrive on solving problems and learning new technologies. Dedicated to creating user-friendly websites and enhancing my skills, I’m open to web development roles and collaboration.</h3>
 
 - 🌱 I’m currently learning **Js,Python and Cybersec Basics**
 
