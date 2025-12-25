@@ -6,10 +6,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVKSH0&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 
-<!-- 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BVKSH0&show_icons=true&include_all_commits=false&theme=tokyonight&hide_border=true" alt="BVKSH0's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVKSH0&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
